@@ -1,0 +1,1 @@
+- Htdocs folder stores all files of php programs that we write
