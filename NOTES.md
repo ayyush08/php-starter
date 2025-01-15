@@ -3,6 +3,8 @@
 
 ## Why PHP?
 
+- Stands for PHP: Hypertext Preprocessor
+
 - PHP is a server-side scripting language
 - Using PHP, we can interact with databases, create dynamic web pages, and do many more things
 
@@ -18,3 +20,14 @@
 
 - Single line comments start with `//`
 - Multi-line comments start with `/*` and end with `*/`
+
+
+Note: Keywords, classes, functions, and user-defined functions are not case-sensitive.
+
+## Variables
+
+- Variables are case-sensitive
+- Variables start with the `$` sign, followed by the name of the variable
+- They are containers for storing data values.
+
+- No concept of data types for variables in PHP because PHP is a loosely typed language, which means that variables do not need to be declared with any particular data type.
