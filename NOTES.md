@@ -31,3 +31,27 @@ Note: Keywords, classes, functions, and user-defined functions are not case-sens
 - They are containers for storing data values.
 
 - No concept of data types for variables in PHP because PHP is a loosely typed language, which means that variables do not need to be declared with any particular data type.
+
+### Rules for PHP variables:
+
+- A variable starts with the `$` sign, followed by the name of the variable
+- A variable name must start with a letter or the underscore character
+- A variable name cannot start with a number
+- A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+- Variable names are case-sensitive ($age and $AGE are two different variables)
+
+
+## Data Types
+
+- PHP supports the following data types:
+
+1. String - sequences of characters
+2. Integer - non-decimal numbers
+3. Float (floating point numbers - also called double)
+4. Boolean
+5. Array
+6. Object - instances of classes
+7. NULL
+
+
+- var_dump() function is used to display the data type and value of a variable.
