@@ -67,3 +67,15 @@ Note: Keywords, classes, functions, and user-defined functions are not case-sens
 - rtrim() - removes whitespace or other predefined characters from the right side of a string
 - ltrim() - removes whitespace or other predefined characters from the left side of a string
 - trim() - removes whitespace or other predefined characters from both sides of a string
+
+## Operators
+
+- Operators are used to perform operations on variables and values.
+
+1. Arithmetic operators - +, -, *, /, %, ** (exponentiation)
+2. Assignment operators - =, +=, -=, *=, /=, %=, **=
+3. Comparison operators - ==, ===, !=, !==, >, <, >=, <=
+4. Increment/Decrement operators - ++$x, $x++, --$x, $x--
+5. Logical operators - and, or, xor, &&, ||, !
+6. String operators - . (concatenation)
+7. Array operators - + (union), ==, ===, !=, !==
