@@ -55,3 +55,15 @@ Note: Keywords, classes, functions, and user-defined functions are not case-sens
 
 
 - var_dump() function is used to display the data type and value of a variable.
+
+## String Functions
+
+- strlen() - returns the length of a string
+- str_word_count() - counts the number of words in a string
+- strrev() - reverses a string
+- strpos() - searches for a specific text within a string. If a match is found, the function returns the character position of the first match. If no match is found, it will return FALSE.
+- str_replace() - replaces some characters with some other characters in a string
+- revstr() - reverses a string
+- rtrim() - removes whitespace or other predefined characters from the right side of a string
+- ltrim() - removes whitespace or other predefined characters from the left side of a string
+- trim() - removes whitespace or other predefined characters from both sides of a string
