@@ -17,7 +17,7 @@ $conn = mysqli_connect($servername, $username, $password);
 
 
 
-$sql = "CREATE DATABASE cura_db22";
+$sql = "CREATE DATABASE cura_db";
 
 $result = mysqli_query($conn, $sql);
 
